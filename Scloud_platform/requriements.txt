@@ -3,4 +3,5 @@ django-cors-headers
 mysqlclient==1.4.6
 django-filter==2.3.0
 requests
-drf-yasg
+drf-yasg==1.17.1
+Markdown
